@@ -63,7 +63,7 @@ def main():
     frequency = 980
     duty_cycle = 0.5
 
-    rc_start = 0.001
+    rc_start = 0.005
     rc_stop = 0.01
     rc_resolution = 0.00001
 
